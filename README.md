@@ -40,6 +40,6 @@ Mean IOU: 0.5399609804153442
 ## Discussion
 Two CNN architectures were implemented for semantic image segmentation. The enhanced architecture, utilizing FPN with MobileNet, demonstrated better qualitative and quantitative results compared to the baseline architecture with FCN and VGG16. The use of data augmentation and transfer learning techniques further improved the performance of the models.
 
-
+dataset "https://www.kaggle.com/datasets/nabeelehsan11/segmentation"
 
 
